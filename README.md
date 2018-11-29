@@ -1,1 +1,1 @@
-# openfaas-demo
+Repo for OpenFaaS Dzone demo!
