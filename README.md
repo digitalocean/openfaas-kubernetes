@@ -1,1 +1,1 @@
-Repo for OpenFaaS Dzone demo!
+Repo to host demo for OpenFaaS function with DigitalOcean Kubernetes!
