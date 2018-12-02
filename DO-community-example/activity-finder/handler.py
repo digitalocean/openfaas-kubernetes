@@ -8,6 +8,6 @@ def handle(req):
     index = random.randint(0, len(result["activities"])-1)
     name = result["activities"][index]["name"]
     desc = result["activities"][index]["desc"]
-    url = result["activities"][index]["URL"]
+    url = result["activities"][index]["url"]
 
     return "%s for startups \\n %s \\n \\n Know more @ %s" % (name) %desc %url
