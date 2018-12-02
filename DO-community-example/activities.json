@@ -1,16 +1,24 @@
 {  
-    "people":[  
+    "activities":[  
        {  
-          "name":"Sergey Prokopyev",
-          "craft":"ISS"
+          "name":"Office Hours",
+          "desc":"Office Hours with DigitalOcean Developer Advocates",
+          "url" :"do.co/officehours"
        },
        {  
-          "name":"Alexander Gerst",
-          "craft":"ISS"
+          "name":"Community Webinars",
+          "desc":"Desc",
+          "url" :"do.co/officehours"
        },
        {  
-          "name":"Serena Aunon-Chancellor",
-          "craft":"ISS"
+          "name":"Write to DOnations",
+          "desc":"ISS",
+          "url" :"do.co/officehours"
+       },
+       {  
+          "name":"Write to DOnations",
+          "desc":"ISS",
+          "url" :"do.co/officehours"
        }
     ],
     "message":"success",
