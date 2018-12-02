@@ -10,4 +10,4 @@ def handle(req):
     desc = result["activities"][index]["desc"]
     url = result["activities"][index]["url"]
 
-    return "%s for startups \\n %s \\n \\n To know more visit - %s" % (name) % (desc) % (url)
+    return "%s for startups \\n %s \\n \\n To know more visit - %s" % (name,desc,url)
