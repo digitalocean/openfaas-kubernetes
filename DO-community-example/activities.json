@@ -1,14 +1,14 @@
 {  
     "activities":[  
        {  
-          "name":"Office Hours",
-          "desc":"Office Hours with DigitalOcean Developer Advocates",
-          "url" :"do.co/officehours"
+          "name":"Office Hours by DigitalOcean",
+          "desc":"Get all your DigitalOcean related queries clarified, including any questions you may have about your tech stack or architecture.",
+          "url" :"https://do.co/officehours"
        },
        {  
-          "name":"Community Webinars",
-          "desc":"Desc",
-          "url" :"do.co/officehours"
+          "name":"Hatch by DigitalOcean",
+          "desc":"Hatch is DigitalOcean's global incubator program designed to support startups as they launch and scale. This includes access to DigitalOcean's cloud for 12 months, free technical training, mentorship, priority support, and an opportunity to connect with other startups, accelerators, and investors",
+          "url" :"https://do.co/hatch"
        },
        {  
           "name":"Write to DOnations",
