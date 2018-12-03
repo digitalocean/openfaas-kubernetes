@@ -3,7 +3,7 @@ import random
 
 def handle(req):
     #r = requests.get("https://openfaas-demo.sgp1.digitaloceanspaces.com/activities.json")
-    r = requests.get("../activities.json")
+    r = requests.get("https://openfaas-demo.sgp1.cdn.digitaloceanspaces.com/activities.json")
     result = r.json()
     
     index = random.randint(0, len(result["activities"])-1)
