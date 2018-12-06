@@ -11,4 +11,4 @@ def handle(req):
     desc = result["activities"][index]["desc"]
     url = result["activities"][index]["url"]
 
-    return "%s for startups \n \n %s \n \n For more details, see - %s" % (name,desc,url)
+    return "%s \n \n %s \n \n For more details, see - %s" % (name,desc,url)
