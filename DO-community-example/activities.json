@@ -9,19 +9,9 @@
           "name":"Hatch by DigitalOcean",
           "desc":"Hatch is DigitalOcean's global incubator program designed to support startups as they launch and scale. This includes access to DigitalOcean's cloud for 12 months, free technical training, mentorship, priority support, and an opportunity to connect with other startups, accelerators, and investors",
           "url" :"https://do.co/hatch"
-       },
-       {  
-          "name":"Write to DOnations",
-          "desc":"ISS",
-          "url" :"do.co/officehours"
-       },
-       {  
-          "name":"Write to DOnations",
-          "desc":"ISS",
-          "url" :"do.co/officehours"
        }
     ],
     "message":"success",
-    "number":3
+    "number":2
  }
  
